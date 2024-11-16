@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>679</width>
+    <height>547</height>
+   </rect>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>BCompare 5.x Crack &amp; Keygen</string>
+  </property>
+  <property name="animated">
+   <bool>true</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>641</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Select the path of BCompare.exe to patch:</string>
+    </property>
+    <widget class="QTextBrowser" name="textExePath">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>30</y>
+       <width>571</width>
+       <height>31</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnSelect">
+     <property name="geometry">
+      <rect>
+       <x>590</x>
+       <y>30</y>
+       <width>41</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>...</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>100</y>
+      <width>641</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Register Info</string>
+    </property>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>81</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>User name:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>121</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Company name:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>110</y>
+       <width>101</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Serial number:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>150</y>
+       <width>111</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Max Quantities:</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="edtUserName">
+     <property name="geometry">
+      <rect>
+       <x>140</x>
+       <y>30</y>
+       <width>491</width>
+       <height>26</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="edtCompName">
+     <property name="geometry">
+      <rect>
+       <x>140</x>
+       <y>70</y>
+       <width>491</width>
+       <height>26</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="edtSerial">
+     <property name="geometry">
+      <rect>
+       <x>140</x>
+       <y>110</y>
+       <width>491</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="placeholderText">
+      <string>XXXX-XXXX, where X represents a~z, A~Z, 0~9.</string>
+     </property>
+    </widget>
+    <widget class="QSlider" name="sliderQuant">
+     <property name="geometry">
+      <rect>
+       <x>140</x>
+       <y>150</y>
+       <width>451</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="minimum">
+      <number>1</number>
+     </property>
+     <property name="maximum">
+      <number>999</number>
+     </property>
+     <property name="pageStep">
+      <number>1</number>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+    <widget class="QLabel" name="labelQuant">
+     <property name="geometry">
+      <rect>
+       <x>600</x>
+       <y>150</y>
+       <width>31</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>1</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="btnPatch">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>480</y>
+      <width>93</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Patch</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnGenKey">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>480</y>
+      <width>121</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Generate Key</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnExit">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>480</y>
+      <width>93</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>300</y>
+      <width>641</width>
+      <height>171</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Generated Key</string>
+    </property>
+    <widget class="QTextBrowser" name="textKey">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>601</width>
+       <height>121</height>
+      </rect>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="btnCopy">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>480</y>
+      <width>93</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Copy</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>679</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

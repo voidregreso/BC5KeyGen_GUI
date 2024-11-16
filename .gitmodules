@@ -1,0 +1,3 @@
+[submodule "my-cryptopp"]
+	path = my-cryptopp
+	url = https://github.com/voidregreso/my-cryptopp.git
